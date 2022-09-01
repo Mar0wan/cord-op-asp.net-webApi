@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hS+vXr5FWPkF0MHz0hsUN1WbsC7xZkMdkvVh2rfatZU=",
+  "Source": "dm.api",
+  "BasePath": "_content/dm.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
